@@ -1,0 +1,2 @@
+# Enable PC Mode tile
+persist.sys.miui.pcmode=1

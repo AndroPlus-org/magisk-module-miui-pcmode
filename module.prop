@@ -1,0 +1,6 @@
+id=xiaomi-pcmode
+name=PC Mode for MIUI
+version=v01
+versionCode=1
+author=AndroPlus
+description=Add PC Mode to Xiaomi MIUI. Enable it at quick settings tile.
